@@ -1,0 +1,32 @@
+ishaan
+14813
+8607
+16
+elon
+400.0
+I want money
+0
+elon
+157.0
+43
+0
+ishaan
+1000.0
+I need money for rent
+1
+seb
+320.0
+32
+0
+Seb
+1234.0
+This is a test 1234
+1
+coco
+6923.0
+303
+0
+ishaan
+20.0
+PLS GIVE ME PENALTY
+1
