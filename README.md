@@ -10,6 +10,11 @@ review their balance, cashout the balance, interact with the stock market to ear
 - [@Danial-Suhail](https://github.com/Danial-Suhail) 
 - [@LeSebston](https://github.com/LeSebston) 
 
+## Acknowledgements
+
+ - [GeeksforGeeks OpenCV](https://www.geeksforgeeks.org/java-opencv-programs/)
+ - [JavaSwing](https://www.youtube.com/watch?v=leqePdEav0U) 
+ - [Zxing Library](https://github.com/zxing/zxing) 
 
 ## Technology Used
 - NetBeans
@@ -25,3 +30,5 @@ review their balance, cashout the balance, interact with the stock market to ear
 
 ## Video Demo 
 [https://youtu.be/Vu_eO2Fyd28](url)
+
+ 
